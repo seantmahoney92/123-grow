@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: 123 Grow with me
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: 'https://ucarecdn.com/fb5b325d-ec46-4a98-ace0-a11fce210cb4/'
 subtitle: >-
   High quality play-based childcare and preschool for children 6 weeks to 7
   years old.
@@ -80,7 +80,9 @@ accordion:
       and discovery that will guide them throughout the rest of their lives.
     title: Preschool Program (3 years - 5 years)
 meta:
-  description: This is a meta description.
+  description: >-
+    High quality play-based childcare and preschool for children 6 weeks to 7
+    years old.
   title: 123 Grow with Me
 ---
 1 2 3 Grow with Me is a play based program with an emphasis on social and emotional development. The children at our school will have a flexible daily schedule that meets the needs of all the children and families served in our program. This includes any developmental, language, cultural, or social difference we encounter. 
