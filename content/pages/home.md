@@ -86,22 +86,3 @@ meta:
 1 2 3 Grow with Me is a play based program with an emphasis on social and emotional development. The children at our school will have a flexible daily schedule that meets the needs of all the children and families served in our program. This includes any developmental, language, cultural, or social difference we encounter. 
 
 Each classroom has a daily schedule to include indoor and outdoor activities to promote proper child development in both fine and gross motor skills while also developing appropriate social, sensory, problem solving, and language skills. 
-
-
-
-# Features
-
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
