@@ -77,44 +77,23 @@ class Form extends React.Component {
               <input
                 className="Form--Input Form--InputText"
                 type="text"
-                placeholder="Firstname"
+                placeholder="First Name"
                 name="firstname"
                 required
               />
-              <span>Firstname</span>
+              <span>First Name</span>
             </label>
             <label className="Form--Label">
               <input
                 className="Form--Input Form--InputText"
                 type="text"
-                placeholder="Lastname"
+                placeholder="Last Name"
                 name="lastname"
                 required
               />
-              <span>Lastname</span>
+              <span>Last Name</span>
             </label>
           </div>
-          <fieldset>
-            <label className="Form--Label Form--Radio">
-              <input
-                className="Form--RadioInput"
-                type="radio"
-                name="gender"
-                value="male"
-                defaultChecked
-              />
-              <span>Male</span>
-            </label>
-            <label className="Form--Label Form--Radio">
-              <input
-                className="Form--RadioInput"
-                type="radio"
-                name="gender"
-                value="female"
-              />
-              <span>Female</span>
-            </label>
-          </fieldset>
           <label className="Form--Label">
             <input
               className="Form--Input Form--InputText"
@@ -132,14 +111,6 @@ class Form extends React.Component {
               defaultValue="Type of Enquiry"
               required
             >
-              <option disabled hidden>
-                Type of Enquiry
-              </option>
-              <option>Need to know more</option>
-              <option>Found a bug</option>
-              <option>Want to say hello</option>
-            </select>
-          </label>
           <label className="Form--Label">
             <textarea
               className="Form--Input Form--Textarea Form--InputText"
@@ -160,7 +131,7 @@ class Form extends React.Component {
           </label>
           <div
             className="g-recaptcha"
-            data-sitekey="6LfKN3kUAAAAAGIM1CbXmaRZx3LIh_W2twn1tzkA"
+            data-sitekey="6LdeitsUAAAAAJ8cq23SOE_ItTDq2fhjNJfXB-7L"
           />
           {!!subject && <input type="hidden" name="subject" value={subject} />}
           <input type="hidden" name="form-name" value={name} />
