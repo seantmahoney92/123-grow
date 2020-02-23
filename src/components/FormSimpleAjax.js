@@ -104,13 +104,6 @@ class Form extends React.Component {
             />
             <span>Email address</span>
           </label>
-          <label className="Form--Label has-arrow">
-            <select
-              className="Form--Input Form--Select"
-              name="type"
-              defaultValue="Type of Enquiry"
-              required
-            >
           <label className="Form--Label">
             <textarea
               className="Form--Input Form--Textarea Form--InputText"
